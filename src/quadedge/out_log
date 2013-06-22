@@ -1,0 +1,4 @@
+make[1]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/triangulate/quadedge'
+/bin/bash ../../../libtool --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I../../../include -I../../../include/geos -I../../../include    -DGEOS_INLINE  -pedantic -Wall -ansi -Wno-long-long  -ffloat-store -g -O2 -MT QuadEdgeSubdivision.lo -MD -MP -MF .deps/QuadEdgeSubdivision.Tpo -c -o QuadEdgeSubdivision.lo QuadEdgeSubdivision.cpp
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I../../../include -I../../../include/geos -I../../../include -DGEOS_INLINE -pedantic -Wall -ansi -Wno-long-long -ffloat-store -g -O2 -MT QuadEdgeSubdivision.lo -MD -MP -MF .deps/QuadEdgeSubdivision.Tpo -c QuadEdgeSubdivision.cpp  -fPIC -DPIC -o .libs/QuadEdgeSubdivision.o
+make[1]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/triangulate/quadedge'
