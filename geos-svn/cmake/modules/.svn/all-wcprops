@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/2883/trunk/cmake/modules
+END
+CheckPrototypeExists.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/2883/trunk/cmake/modules/CheckPrototypeExists.cmake
+END
+COPYING-CMAKE-SCRIPTS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/2882/trunk/cmake/modules/COPYING-CMAKE-SCRIPTS
+END

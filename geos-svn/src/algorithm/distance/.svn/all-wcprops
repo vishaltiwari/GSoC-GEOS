@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3637/trunk/src/algorithm/distance
+END
+DiscreteHausdorffDistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3565/trunk/src/algorithm/distance/DiscreteHausdorffDistance.cpp
+END
+DistanceToPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3565/trunk/src/algorithm/distance/DistanceToPoint.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3482/trunk/src/algorithm/distance/Makefile.am
+END

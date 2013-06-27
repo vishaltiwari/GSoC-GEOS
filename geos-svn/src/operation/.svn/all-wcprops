@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3755/trunk/src/operation
+END
+GeometryGraphOperation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/3650/trunk/src/operation/GeometryGraphOperation.cpp
+END
+IsSimpleOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/3565/trunk/src/operation/IsSimpleOp.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3482/trunk/src/operation/Makefile.am
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/geos/!svn/ver/3792/trunk/capi
+END
+geos_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3792/trunk/capi/geos_c.cpp
+END
+geos_ts_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/geos/!svn/ver/3792/trunk/capi/geos_ts_c.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/3482/trunk/capi/Makefile.am
+END
+geos_c.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/3792/trunk/capi/geos_c.h.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/3683/trunk/capi/CMakeLists.txt
+END

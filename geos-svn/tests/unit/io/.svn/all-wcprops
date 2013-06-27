@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3769/trunk/tests/unit/io
+END
+ByteOrderValuesTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3482/trunk/tests/unit/io/ByteOrderValuesTest.cpp
+END
+WKBWriterTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3482/trunk/tests/unit/io/WKBWriterTest.cpp
+END
+WKTWriterTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3482/trunk/tests/unit/io/WKTWriterTest.cpp
+END
+WKBReaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3482/trunk/tests/unit/io/WKBReaderTest.cpp
+END
+WKTReaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3740/trunk/tests/unit/io/WKTReaderTest.cpp
+END
+WriterTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/3769/trunk/tests/unit/io/WriterTest.cpp
+END

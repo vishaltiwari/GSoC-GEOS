@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/3650/trunk/src/geomgraph/index
+END
+SweepLineSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/SweepLineSegment.cpp
+END
+MonotoneChainIndexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/MonotoneChainIndexer.cpp
+END
+SegmentIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/SegmentIntersector.cpp
+END
+MonotoneChainEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/MonotoneChainEdge.cpp
+END
+SimpleMCSweepLineIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/SimpleMCSweepLineIntersector.cpp
+END
+SimpleSweepLineIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/SimpleSweepLineIntersector.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3482/trunk/src/geomgraph/index/Makefile.am
+END
+SimpleEdgeSetIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/SimpleEdgeSetIntersector.cpp
+END
+SweepLineEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3650/trunk/src/geomgraph/index/SweepLineEvent.cpp
+END

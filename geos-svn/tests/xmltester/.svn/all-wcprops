@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3781/trunk/tests/xmltester
+END
+testrunner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3481/trunk/tests/xmltester/testrunner.sh
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/2674/trunk/tests/xmltester/makefile.vc
+END
+SimpleWKTTester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3650/trunk/tests/xmltester/SimpleWKTTester.cpp
+END
+WKTIn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/3481/trunk/tests/xmltester/WKTIn
+END
+Stackwalker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3481/trunk/tests/xmltester/Stackwalker.cpp
+END
+WKTOut
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3481/trunk/tests/xmltester/WKTOut
+END
+BufferResultMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3565/trunk/tests/xmltester/BufferResultMatcher.cpp
+END
+Stackwalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3650/trunk/tests/xmltester/Stackwalker.h
+END
+BufferResultMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3565/trunk/tests/xmltester/BufferResultMatcher.h
+END
+XMLTester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3749/trunk/tests/xmltester/XMLTester.cpp
+END
+SingleSidedBufferResultMatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3565/trunk/tests/xmltester/SingleSidedBufferResultMatcher.cpp
+END
+safe_to_xml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/3565/trunk/tests/xmltester/safe_to_xml.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3773/trunk/tests/xmltester/Makefile.am
+END
+CTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/tests/xmltester/CTS.cpp
+END
+SingleSidedBufferResultMatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/3565/trunk/tests/xmltester/SingleSidedBufferResultMatcher.h
+END
+XMLTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3565/trunk/tests/xmltester/XMLTester.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/3482/trunk/tests/xmltester/CMakeLists.txt
+END

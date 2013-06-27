@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/geos/!svn/ver/3787/trunk/include
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/geos/!svn/ver/3650/trunk/include/acconfig.h
+END
+geos.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3565/trunk/include/geos.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/3482/trunk/include/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3482/trunk/include/CMakeLists.txt
+END

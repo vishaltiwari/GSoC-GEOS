@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/geos/!svn/ver/3708/trunk/php/test
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/geos/!svn/ver/3708/trunk/php/test/test.php
+END
+crashme.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3007/trunk/php/test/crashme.php
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3081/trunk/php/test/Makefile.am
+END

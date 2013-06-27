@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3565/trunk/src/operation/predicate
+END
+SegmentIntersectionTester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/geos/!svn/ver/3565/trunk/src/operation/predicate/SegmentIntersectionTester.cpp
+END
+RectangleContains.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/3565/trunk/src/operation/predicate/RectangleContains.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3482/trunk/src/operation/predicate/Makefile.am
+END
+RectangleIntersects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/3565/trunk/src/operation/predicate/RectangleIntersects.cpp
+END

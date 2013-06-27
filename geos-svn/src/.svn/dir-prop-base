@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 160
+.libs
+.deps
+Makefile
+Makefile.in
+*.dll
+*.exp
+*.exe
+*.ilk
+*.la
+*.lib
+*.lo
+*.manifest
+*.obj
+*.pdb
+tags
+TAGS
+ID
+CTestTestfile.cmake
+CMakeFiles
+cmake_install.cmake
+
+END

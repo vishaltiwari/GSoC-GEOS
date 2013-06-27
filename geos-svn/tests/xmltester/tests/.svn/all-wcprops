@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/3781/trunk/tests/xmltester/tests
+END
+hole_red.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/2355/trunk/tests/xmltester/tests/hole_red.xml
+END
+testLeaksBig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/testLeaksBig.xml
+END
+singlesidedbuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/2649/trunk/tests/xmltester/tests/singlesidedbuffer.xml
+END
+hexwkb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/hexwkb.xml
+END
+TestIsValid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/TestIsValid.xml
+END
+split.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/2446/trunk/tests/xmltester/tests/split.xml
+END
+heisenbugs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2355/trunk/tests/xmltester/tests/heisenbugs.xml
+END
+badguy3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/2355/trunk/tests/xmltester/tests/badguy3.xml
+END
+TestBufferExternal2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/2355/trunk/tests/xmltester/tests/TestBufferExternal2.xml
+END
+hole_from_shell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/2355/trunk/tests/xmltester/tests/hole_from_shell.xml
+END
+fme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2676/trunk/tests/xmltester/tests/fme.xml
+END
+robustness.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3565/trunk/tests/xmltester/tests/robustness.xml
+END
+linemerge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/linemerge.xml
+END
+buffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/buffer.xml
+END
+TestBigNastyBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/2391/trunk/tests/xmltester/tests/TestBigNastyBuffer.xml
+END
+TestBufferExternal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/2355/trunk/tests/xmltester/tests/TestBufferExternal.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/test.xml
+END

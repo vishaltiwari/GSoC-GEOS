@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3650/trunk/src/planargraph
+END
+PlanarGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3650/trunk/src/planargraph/PlanarGraph.cpp
+END
+DirectedEdgeStar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3650/trunk/src/planargraph/DirectedEdgeStar.cpp
+END
+NodeMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3650/trunk/src/planargraph/NodeMap.cpp
+END
+Edge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/3650/trunk/src/planargraph/Edge.cpp
+END
+Node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/3650/trunk/src/planargraph/Node.cpp
+END
+DirectedEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3650/trunk/src/planargraph/DirectedEdge.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3482/trunk/src/planargraph/Makefile.am
+END
+Subgraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/3650/trunk/src/planargraph/Subgraph.cpp
+END

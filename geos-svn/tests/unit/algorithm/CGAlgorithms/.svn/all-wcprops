@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/CGAlgorithms
+END
+signedAreaTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/CGAlgorithms/signedAreaTest.cpp
+END
+computeOrientationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/CGAlgorithms/computeOrientationTest.cpp
+END
+isCCWTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/CGAlgorithms/isCCWTest.cpp
+END
+isPointInRingTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/CGAlgorithms/isPointInRingTest.cpp
+END

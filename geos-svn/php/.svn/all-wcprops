@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/geos/!svn/ver/3708/trunk/php
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/geos/!svn/ver/3086/trunk/php/TODO
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3279/trunk/php/Makefile.am
+END
+php_geos.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3007/trunk/php/php_geos.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/geos/!svn/ver/3708/trunk/php/README
+END
+geos.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/geos/!svn/ver/3625/trunk/php/geos.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3734/trunk/src/operation/buffer
+END
+OffsetCurveSetBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3650/trunk/src/operation/buffer/OffsetCurveSetBuilder.cpp
+END
+BufferBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3643/trunk/src/operation/buffer/BufferBuilder.cpp
+END
+OffsetSegmentGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/3649/trunk/src/operation/buffer/OffsetSegmentGenerator.cpp
+END
+OffsetCurveBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/3649/trunk/src/operation/buffer/OffsetCurveBuilder.cpp
+END
+BufferInputLineSimplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3649/trunk/src/operation/buffer/BufferInputLineSimplifier.cpp
+END
+BufferSubgraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3650/trunk/src/operation/buffer/BufferSubgraph.cpp
+END
+BufferOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3734/trunk/src/operation/buffer/BufferOp.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3649/trunk/src/operation/buffer/Makefile.am
+END
+SubgraphDepthLocater.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/3650/trunk/src/operation/buffer/SubgraphDepthLocater.cpp
+END
+BufferParameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3565/trunk/src/operation/buffer/BufferParameters.cpp
+END
+RightmostEdgeFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3727/trunk/src/operation/buffer/RightmostEdgeFinder.cpp
+END

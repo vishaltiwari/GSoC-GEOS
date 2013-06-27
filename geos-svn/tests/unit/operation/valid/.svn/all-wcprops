@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3482/trunk/tests/unit/operation/valid
+END
+ValidSelfTouchingRingFormingHoleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/geos/!svn/ver/3482/trunk/tests/unit/operation/valid/ValidSelfTouchingRingFormingHoleTest.cpp
+END
+ValidClosedRingTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3482/trunk/tests/unit/operation/valid/ValidClosedRingTest.cpp
+END
+IsValidTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3482/trunk/tests/unit/operation/valid/IsValidTest.cpp
+END

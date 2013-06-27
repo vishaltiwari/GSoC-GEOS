@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3529/trunk/tests/unit/noding/snapround
+END
+MCIndexSnapRounderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/geos/!svn/ver/3529/trunk/tests/unit/noding/snapround/MCIndexSnapRounderTest.cpp
+END
+HotPixelTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3528/trunk/tests/unit/noding/snapround/HotPixelTest.cpp
+END

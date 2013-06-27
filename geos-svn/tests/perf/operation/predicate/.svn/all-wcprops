@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/3695/trunk/tests/perf/operation/predicate
+END
+RectangleIntersectsPerfTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/geos/!svn/ver/3565/trunk/tests/perf/operation/predicate/RectangleIntersectsPerfTest.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3316/trunk/tests/perf/operation/predicate/Makefile.am
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/geos/!svn/ver/3565/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3481/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3481/trunk/debian/compat
+END
+libgeos.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/3481/trunk/debian/libgeos.dirs
+END
+libgeos-dev.docs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3481/trunk/debian/libgeos-dev.docs
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/3481/trunk/debian/changelog
+END
+libgeos.install
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3481/trunk/debian/libgeos.install
+END
+libgeos-dev.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3481/trunk/debian/libgeos-dev.manpages
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/geos/!svn/ver/3481/trunk/debian/rules
+END
+geos-config.1
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3565/trunk/debian/geos-config.1
+END
+libgeos-dev.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3481/trunk/debian/libgeos-dev.dirs
+END
+libgeos-doc.doc-base
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3481/trunk/debian/libgeos-doc.doc-base
+END
+makedoc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3481/trunk/debian/makedoc
+END
+libgeos-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3481/trunk/debian/libgeos-dev.install
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/geos/!svn/ver/3481/trunk/debian/watch
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/3565/trunk/debian/copyright
+END
+libgeos.docs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/3481/trunk/debian/libgeos.docs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3481/trunk/debian/Makefile
+END
+libgeos-doc.docs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3481/trunk/debian/libgeos-doc.docs
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3481/trunk/debian/README.Debian
+END

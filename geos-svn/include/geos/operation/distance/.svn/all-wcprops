@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3650/trunk/include/geos/operation/distance
+END
+DistanceOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3650/trunk/include/geos/operation/distance/DistanceOp.h
+END
+ConnectedElementLocationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/geos/!svn/ver/3650/trunk/include/geos/operation/distance/ConnectedElementLocationFilter.h
+END
+ConnectedElementPointFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/geos/!svn/ver/3650/trunk/include/geos/operation/distance/ConnectedElementPointFilter.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/3482/trunk/include/geos/operation/distance/Makefile.am
+END
+GeometryLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3650/trunk/include/geos/operation/distance/GeometryLocation.h
+END

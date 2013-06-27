@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3535/trunk/tests/unit/operation/buffer
+END
+BufferOpTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3535/trunk/tests/unit/operation/buffer/BufferOpTest.cpp
+END
+BufferParametersTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3508/trunk/tests/unit/operation/buffer/BufferParametersTest.cpp
+END

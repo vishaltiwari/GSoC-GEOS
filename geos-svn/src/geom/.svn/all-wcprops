@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/geos/!svn/ver/3794/trunk/src/geom
+END
+MultiPolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3650/trunk/src/geom/MultiPolygon.cpp
+END
+MultiPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/src/geom/MultiPoint.cpp
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/3650/trunk/src/geom/Triangle.cpp
+END
+GeometryCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3650/trunk/src/geom/GeometryCollection.cpp
+END
+CoordinateArraySequenceFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/3603/trunk/src/geom/CoordinateArraySequenceFactory.cpp
+END
+CoordinateSequenceFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3650/trunk/src/geom/CoordinateSequenceFactory.cpp
+END
+Location.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/3650/trunk/src/geom/Location.cpp
+END
+LineSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/3650/trunk/src/geom/LineSegment.cpp
+END
+PrecisionModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3650/trunk/src/geom/PrecisionModel.cpp
+END
+Envelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/3650/trunk/src/geom/Envelope.cpp
+END
+LineString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/src/geom/LineString.cpp
+END
+CoordinateArraySequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3650/trunk/src/geom/CoordinateArraySequence.cpp
+END
+CoordinateSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3650/trunk/src/geom/CoordinateSequence.cpp
+END
+GeometryFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/3650/trunk/src/geom/GeometryFactory.cpp
+END
+GeometryComponentFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3650/trunk/src/geom/GeometryComponentFilter.cpp
+END
+Dimension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3650/trunk/src/geom/Dimension.cpp
+END
+GeometryList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3650/trunk/src/geom/GeometryList.cpp
+END
+Coordinate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3565/trunk/src/geom/Coordinate.cpp
+END
+Polygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3650/trunk/src/geom/Polygon.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3482/trunk/src/geom/Makefile.am
+END
+MultiLineString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/3650/trunk/src/geom/MultiLineString.cpp
+END
+Point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/geos/!svn/ver/3565/trunk/src/geom/Point.cpp
+END
+LinearRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/src/geom/LinearRing.cpp
+END
+IntersectionMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3650/trunk/src/geom/IntersectionMatrix.cpp
+END
+Geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/3794/trunk/src/geom/Geometry.cpp
+END

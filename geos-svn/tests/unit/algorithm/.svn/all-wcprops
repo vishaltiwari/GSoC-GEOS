@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3793/trunk/tests/unit/algorithm
+END
+InteriorPointAreaTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3565/trunk/tests/unit/algorithm/InteriorPointAreaTest.cpp
+END
+AngleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/AngleTest.cpp
+END
+ConvexHullTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/ConvexHullTest.cpp
+END
+RobustLineIntersectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/RobustLineIntersectorTest.cpp
+END
+PointLocatorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3482/trunk/tests/unit/algorithm/PointLocatorTest.cpp
+END
+RobustLineIntersectionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/3793/trunk/tests/unit/algorithm/RobustLineIntersectionTest.cpp
+END

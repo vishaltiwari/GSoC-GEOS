@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/geos/!svn/ver/3799/trunk/tools
+END
+svn_repo_revision.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3799/trunk/tools/svn_repo_revision.sh
+END
+geos-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3542/trunk/tools/geos-config.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/geos/!svn/ver/3798/trunk/tools/Makefile.am
+END
+findclassfiles
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3310/trunk/tools/findclassfiles
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3482/trunk/tools/CMakeLists.txt
+END

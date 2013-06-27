@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2446/trunk/tests/xmltester/tests/robust
+END
+TestRobustOverlayFixed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/2446/trunk/tests/xmltester/tests/robust/TestRobustOverlayFixed.xml
+END
+TestRobustRelate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/2446/trunk/tests/xmltester/tests/robust/TestRobustRelate.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3650/trunk/src/geom/prep
+END
+PreparedGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedGeometry.cpp
+END
+PreparedPolygonIntersects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPolygonIntersects.cpp
+END
+BasicPreparedGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3650/trunk/src/geom/prep/BasicPreparedGeometry.cpp
+END
+PreparedLineString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedLineString.cpp
+END
+PreparedLineStringIntersects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3565/trunk/src/geom/prep/PreparedLineStringIntersects.cpp
+END
+PreparedGeometryFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedGeometryFactory.cpp
+END
+PreparedPolygonContainsProperly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPolygonContainsProperly.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3482/trunk/src/geom/prep/Makefile.am
+END
+PreparedPolygonContains.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPolygonContains.cpp
+END
+PreparedPolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPolygon.cpp
+END
+PreparedPolygonPredicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPolygonPredicate.cpp
+END
+PreparedPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPoint.cpp
+END
+PreparedPolygonCovers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3650/trunk/src/geom/prep/PreparedPolygonCovers.cpp
+END
+AbstractPreparedPolygonContains.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/3650/trunk/src/geom/prep/AbstractPreparedPolygonContains.cpp
+END

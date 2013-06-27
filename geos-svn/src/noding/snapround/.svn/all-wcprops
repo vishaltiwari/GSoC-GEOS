@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3650/trunk/src/noding/snapround
+END
+MCIndexSnapRounder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/3565/trunk/src/noding/snapround/MCIndexSnapRounder.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3482/trunk/src/noding/snapround/Makefile.am
+END
+MCIndexPointSnapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3565/trunk/src/noding/snapround/MCIndexPointSnapper.cpp
+END
+SimpleSnapRounder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3650/trunk/src/noding/snapround/SimpleSnapRounder.cpp
+END
+HotPixel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3650/trunk/src/noding/snapround/HotPixel.cpp
+END

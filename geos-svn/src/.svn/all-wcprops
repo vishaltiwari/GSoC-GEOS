@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/geos/!svn/ver/3795/trunk/src
+END
+dirlist.mk
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3795/trunk/src/dirlist.mk
+END
+inlines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3565/trunk/src/inlines.cpp
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3794/trunk/src/Makefile.vc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3693/trunk/src/Makefile.am
+END
+info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/geos/!svn/ver/3376/trunk/src/info.plist.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/geos/!svn/ver/3683/trunk/src/CMakeLists.txt
+END

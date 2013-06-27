@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/geos/!svn/ver/3793/trunk/tests
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/geos/!svn/ver/3482/trunk/tests/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3482/trunk/tests/CMakeLists.txt
+END

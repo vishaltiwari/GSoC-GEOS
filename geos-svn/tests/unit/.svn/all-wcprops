@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/geos/!svn/ver/3793/trunk/tests/unit
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3482/trunk/tests/unit/utility.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3792/trunk/tests/unit/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3482/trunk/tests/unit/CMakeLists.txt
+END
+geos_unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/3565/trunk/tests/unit/geos_unit.cpp
+END

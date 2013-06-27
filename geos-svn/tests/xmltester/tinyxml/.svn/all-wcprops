@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml/tinyxmlerror.cpp
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml/tinystr.h
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml/tinyxmlparser.cpp
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml/tinyxml.cpp
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml/tinyxml.h
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3481/trunk/tests/xmltester/tinyxml/tinystr.cpp
+END

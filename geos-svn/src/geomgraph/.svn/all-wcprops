@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3650/trunk/src/geomgraph
+END
+PlanarGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3565/trunk/src/geomgraph/PlanarGraph.cpp
+END
+EdgeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3650/trunk/src/geomgraph/EdgeList.cpp
+END
+DirectedEdgeStar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3565/trunk/src/geomgraph/DirectedEdgeStar.cpp
+END
+Edge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3565/trunk/src/geomgraph/Edge.cpp
+END
+Depth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/src/geomgraph/Depth.cpp
+END
+Position.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3650/trunk/src/geomgraph/Position.cpp
+END
+TopologyLocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3565/trunk/src/geomgraph/TopologyLocation.cpp
+END
+DirectedEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/3565/trunk/src/geomgraph/DirectedEdge.cpp
+END
+EdgeNodingValidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3650/trunk/src/geomgraph/EdgeNodingValidator.cpp
+END
+NodeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3650/trunk/src/geomgraph/NodeFactory.cpp
+END
+GeometryGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3640/trunk/src/geomgraph/GeometryGraph.cpp
+END
+Label.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/src/geomgraph/Label.cpp
+END
+Quadrant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3650/trunk/src/geomgraph/Quadrant.cpp
+END
+NodeMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3565/trunk/src/geomgraph/NodeMap.cpp
+END
+GraphComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3565/trunk/src/geomgraph/GraphComponent.cpp
+END
+EdgeRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3565/trunk/src/geomgraph/EdgeRing.cpp
+END
+Node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/3614/trunk/src/geomgraph/Node.cpp
+END
+EdgeEndStar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3565/trunk/src/geomgraph/EdgeEndStar.cpp
+END
+EdgeIntersectionList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3565/trunk/src/geomgraph/EdgeIntersectionList.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3482/trunk/src/geomgraph/Makefile.am
+END
+EdgeEnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3565/trunk/src/geomgraph/EdgeEnd.cpp
+END

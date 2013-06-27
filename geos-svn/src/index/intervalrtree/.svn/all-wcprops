@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/3650/trunk/src/index/intervalrtree
+END
+SortedPackedIntervalRTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/geos/!svn/ver/3650/trunk/src/index/intervalrtree/SortedPackedIntervalRTree.cpp
+END
+IntervalRTreeLeafNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/3650/trunk/src/index/intervalrtree/IntervalRTreeLeafNode.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3482/trunk/src/index/intervalrtree/Makefile.am
+END
+IntervalRTreeBranchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/3650/trunk/src/index/intervalrtree/IntervalRTreeBranchNode.cpp
+END
+IntervalRTreeNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/3650/trunk/src/index/intervalrtree/IntervalRTreeNode.cpp
+END

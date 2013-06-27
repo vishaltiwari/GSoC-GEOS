@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 95
+Makefile
+.cvsignore
+geos-config
+Makefile.in
+CTestTestfile.cmake
+CMakeFiles
+cmake_install.cmake
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/3650/trunk/src/operation/overlay/validate
+END
+FuzzyPointLocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3650/trunk/src/operation/overlay/validate/FuzzyPointLocator.cpp
+END
+OverlayResultValidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/3650/trunk/src/operation/overlay/validate/OverlayResultValidator.cpp
+END
+OffsetPointGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/3565/trunk/src/operation/overlay/validate/OffsetPointGenerator.cpp
+END

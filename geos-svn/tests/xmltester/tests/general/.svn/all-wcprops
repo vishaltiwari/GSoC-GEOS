@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/3781/trunk/tests/xmltester/tests/general
+END
+TestValid2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/general/TestValid2.xml
+END
+TestBoundary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2451/trunk/tests/xmltester/tests/general/TestBoundary.xml
+END
+TestConvexHull-big.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2450/trunk/tests/xmltester/tests/general/TestConvexHull-big.xml
+END
+TestFunctionLLPrec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionLLPrec.xml
+END
+TestSimple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/2448/trunk/tests/xmltester/tests/general/TestSimple.xml
+END
+TestRelateLA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelateLA.xml
+END
+TestUnaryUnionFloating.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/geos/!svn/ver/3534/trunk/tests/xmltester/tests/general/TestUnaryUnionFloating.xml
+END
+TestRelateLC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelateLC.xml
+END
+TestFunctionPLPrec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionPLPrec.xml
+END
+TestRelatePA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelatePA.xml
+END
+TestValid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/general/TestValid.xml
+END
+TestFunctionAAPrec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionAAPrec.xml
+END
+TestFunctionLA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionLA.xml
+END
+TestRelateLL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelateLL.xml
+END
+TestInteriorPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/3781/trunk/tests/xmltester/tests/general/TestInteriorPoint.xml
+END
+TestFunctionPA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionPA.xml
+END
+TestCentroid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3749/trunk/tests/xmltester/tests/general/TestCentroid.xml
+END
+TestRelatePL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelatePL.xml
+END
+TestBuffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3243/trunk/tests/xmltester/tests/general/TestBuffer.xml
+END
+MISSING
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/2456/trunk/tests/xmltester/tests/general/MISSING
+END
+TestRelatePP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelatePP.xml
+END
+TestFunctionLL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionLL.xml
+END
+TestWithinDistance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2453/trunk/tests/xmltester/tests/general/TestWithinDistance.xml
+END
+TestRelateAA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelateAA.xml
+END
+TestRelateAC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2449/trunk/tests/xmltester/tests/general/TestRelateAC.xml
+END
+TestValid2-big.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/3481/trunk/tests/xmltester/tests/general/TestValid2-big.xml
+END
+TestFunctionPL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionPL.xml
+END
+TestRectanglePredicate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/geos/!svn/ver/2456/trunk/tests/xmltester/tests/general/TestRectanglePredicate.xml
+END
+TestFunctionPP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionPP.xml
+END
+TestConvexHull.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2450/trunk/tests/xmltester/tests/general/TestConvexHull.xml
+END
+TestFunctionAA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionAA.xml
+END
+TestDistance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3260/trunk/tests/xmltester/tests/general/TestDistance.xml
+END
+TestBufferMitredJoin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/geos/!svn/ver/2448/trunk/tests/xmltester/tests/general/TestBufferMitredJoin.xml
+END
+TestUnaryUnion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/3534/trunk/tests/xmltester/tests/general/TestUnaryUnion.xml
+END
+TestFunctionLAPrec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2452/trunk/tests/xmltester/tests/general/TestFunctionLAPrec.xml
+END

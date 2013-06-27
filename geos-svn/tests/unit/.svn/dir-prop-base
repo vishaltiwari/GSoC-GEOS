@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 134
+geostest
+threadtest
+badthreadtest
+.deps
+.libs
+.gdb*
+Makefile
+Makefile.in
+CTestTestfile.cmake
+CMakeFiles
+cmake_install.cmake
+geos_unit
+
+END

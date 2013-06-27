@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3565/trunk/tests/geostest
+END
+test.expected
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2805/trunk/tests/geostest/test.expected
+END
+testrunner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2805/trunk/tests/geostest/testrunner.sh
+END
+test.wkt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/2805/trunk/tests/geostest/test.wkt
+END
+brokengrammar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2805/trunk/tests/geostest/brokengrammar
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3482/trunk/tests/geostest/Makefile.am
+END
+geostest.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3565/trunk/tests/geostest/geostest.c
+END

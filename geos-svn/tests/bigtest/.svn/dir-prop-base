@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 110
+bug234
+CTestTestfile.cmake
+CMakeFiles
+cmake_install.cmake
+TestSweepLineSpeed
+Makefile
+Makefile.in
+.deps
+.libs
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3693/trunk/tests/unit/triangulate/quadedge
+END
+QuadEdgeSubdivisionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/geos/!svn/ver/3693/trunk/tests/unit/triangulate/quadedge/QuadEdgeSubdivisionTest.cpp
+END
+QuadEdgeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/3693/trunk/tests/unit/triangulate/quadedge/QuadEdgeTest.cpp
+END

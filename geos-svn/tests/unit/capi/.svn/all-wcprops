@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3793/trunk/tests/unit/capi
+END
+GEOSGeomToWKTTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSGeomToWKTTest.cpp
+END
+GEOSIntersectsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSIntersectsTest.cpp
+END
+GEOSOrientationIndex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSOrientationIndex.cpp
+END
+GEOSNodeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3602/trunk/tests/unit/capi/GEOSNodeTest.cpp
+END
+GEOSLineString_PointTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/2992/trunk/tests/unit/capi/GEOSLineString_PointTest.cpp
+END
+GEOSConvexHullTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3793/trunk/tests/unit/capi/GEOSConvexHullTest.cpp
+END
+GEOSRelatePatternMatchTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSRelatePatternMatchTest.cpp
+END
+GEOSDistanceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3442/trunk/tests/unit/capi/GEOSDistanceTest.cpp
+END
+GEOSOffsetCurveTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSOffsetCurveTest.cpp
+END
+GEOSInterruptTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3672/trunk/tests/unit/capi/GEOSInterruptTest.cpp
+END
+GEOSSimplifyTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSSimplifyTest.cpp
+END
+GEOSNearestPointsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3792/trunk/tests/unit/capi/GEOSNearestPointsTest.cpp
+END
+GEOSPointOnSurfaceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/3781/trunk/tests/unit/capi/GEOSPointOnSurfaceTest.cpp
+END
+GEOSSnapTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSSnapTest.cpp
+END
+GEOSWithinTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSWithinTest.cpp
+END
+GEOSDelaunayTriangulationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/3703/trunk/tests/unit/capi/GEOSDelaunayTriangulationTest.cpp
+END
+GEOSPolygonizer_getCutEdgesTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSPolygonizer_getCutEdgesTest.cpp
+END
+GEOSGeom_extractUniquePointsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSGeom_extractUniquePointsTest.cpp
+END
+GEOSSharedPathsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3255/trunk/tests/unit/capi/GEOSSharedPathsTest.cpp
+END
+GEOSGetCentroidTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3679/trunk/tests/unit/capi/GEOSGetCentroidTest.cpp
+END
+GEOSUnaryUnionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3793/trunk/tests/unit/capi/GEOSUnaryUnionTest.cpp
+END
+GEOSBufferTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSBufferTest.cpp
+END
+GEOSGeom_create.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSGeom_create.cpp
+END
+GEOSContainsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSContainsTest.cpp
+END
+GEOSPreparedGeometryTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSPreparedGeometryTest.cpp
+END
+GEOSRelateBoundaryNodeRuleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSRelateBoundaryNodeRuleTest.cpp
+END
+GEOSisValidDetailTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3562/trunk/tests/unit/capi/GEOSisValidDetailTest.cpp
+END
+GEOSGeomFromWKBTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSGeomFromWKBTest.cpp
+END
+GEOSCoordSeqTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/3482/trunk/tests/unit/capi/GEOSCoordSeqTest.cpp
+END

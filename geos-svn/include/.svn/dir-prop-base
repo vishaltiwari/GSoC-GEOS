@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 122
+Makefile.in
+Makefile
+config.h
+stamp-h.in
+stamp-h1
+stamp-h2
+CTestTestfile.cmake
+CMakeFiles
+cmake_install.cmake
+config.h.in
+
+END

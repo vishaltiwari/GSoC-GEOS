@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3098/trunk/tests/xmltester/tests/stmlf
+END
+stmlf-cases-20070119.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2447/trunk/tests/xmltester/tests/stmlf/stmlf-cases-20070119.xml
+END
+stmlf-cases-20061020.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3098/trunk/tests/xmltester/tests/stmlf/stmlf-cases-20061020.xml
+END
+stmlf-cases-20061020-invalid-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/geos/!svn/ver/3098/trunk/tests/xmltester/tests/stmlf/stmlf-cases-20061020-invalid-output.xml
+END

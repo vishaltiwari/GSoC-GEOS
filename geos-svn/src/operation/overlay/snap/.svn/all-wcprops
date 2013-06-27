@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3637/trunk/src/operation/overlay/snap
+END
+SnapOverlayOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/3565/trunk/src/operation/overlay/snap/SnapOverlayOp.cpp
+END
+GeometrySnapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3565/trunk/src/operation/overlay/snap/GeometrySnapper.cpp
+END
+SnapIfNeededOverlayOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/3565/trunk/src/operation/overlay/snap/SnapIfNeededOverlayOp.cpp
+END
+LineStringSnapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/3576/trunk/src/operation/overlay/snap/LineStringSnapper.cpp
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/geos/!svn/ver/3799/trunk
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/3482/trunk/makefile.vc
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/geos/!svn/ver/3481/trunk/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/geos/!svn/ver/3737/trunk/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/3565/trunk/ChangeLog
+END
+acsite.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/3618/trunk/acsite.m4
+END
+authors.svn
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/3505/trunk/authors.svn
+END
+nmake.opt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/3797/trunk/nmake.opt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/geos/!svn/ver/3663/trunk/README
+END
+.vimrc
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/geos/!svn/ver/3125/trunk/.vimrc
+END
+HOWTO_RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3778/trunk/HOWTO_RELEASE
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/geos/!svn/ver/3510/trunk/TODO
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/geos/!svn/ver/3536/trunk/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/geos/!svn/ver/3481/trunk/INSTALL
+END
+autogen.bat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/3482/trunk/autogen.bat
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/geos/!svn/ver/3481/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/3799/trunk/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/geos/!svn/ver/3482/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/geos/!svn/ver/3792/trunk/NEWS
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/3697/trunk/CMakeLists.txt
+END

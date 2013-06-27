@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/3535/trunk/tests/xmltester/tests/safe
+END
+16595.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2649/trunk/tests/xmltester/tests/safe/16595.xml
+END
+16596.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2649/trunk/tests/xmltester/tests/safe/16596.xml
+END
+TestBufferJagged.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/3535/trunk/tests/xmltester/tests/safe/TestBufferJagged.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/3650/trunk/src/geom/util
+END
+GeometryTransformer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3650/trunk/src/geom/util/GeometryTransformer.cpp
+END
+SineStarFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3565/trunk/src/geom/util/SineStarFactory.cpp
+END
+GeometryEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/3650/trunk/src/geom/util/GeometryEditor.cpp
+END
+ShortCircuitedGeometryVisitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/3565/trunk/src/geom/util/ShortCircuitedGeometryVisitor.cpp
+END
+CoordinateOperation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/3650/trunk/src/geom/util/CoordinateOperation.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/3482/trunk/src/geom/util/Makefile.am
+END
+GeometryCombiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3565/trunk/src/geom/util/GeometryCombiner.cpp
+END
+ComponentCoordinateExtracter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/3650/trunk/src/geom/util/ComponentCoordinateExtracter.cpp
+END

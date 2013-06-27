@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/3511/trunk/tests/perf/capi
+END
+memleak_mp_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/3349/trunk/tests/perf/capi/memleak_mp_prep.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/3482/trunk/tests/perf/capi/Makefile.am
+END
+memleak_mp_prep.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/3374/trunk/tests/perf/capi/memleak_mp_prep.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/3605/trunk/tests/unit/precision
+END
+GeometryPrecisionReducerTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/geos/!svn/ver/3605/trunk/tests/unit/precision/GeometryPrecisionReducerTest.cpp
+END
+SimpleGeometryPrecisionReducerTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/geos/!svn/ver/3482/trunk/tests/unit/precision/SimpleGeometryPrecisionReducerTest.cpp
+END

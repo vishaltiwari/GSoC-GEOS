@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/3650/trunk/src/index/sweepline
+END
+SweepLineInterval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/3650/trunk/src/index/sweepline/SweepLineInterval.cpp
+END
+SweepLineIndex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3650/trunk/src/index/sweepline/SweepLineIndex.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/3482/trunk/src/index/sweepline/Makefile.am
+END
+SweepLineEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/3650/trunk/src/index/sweepline/SweepLineEvent.cpp
+END

@@ -1,0 +1,20 @@
+Making install in util
+make[1]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/util'
+make[2]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/util'
+make[2]: Nothing to be done for `install-exec-am'.
+make[2]: Nothing to be done for `install-data-am'.
+make[2]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/util'
+make[1]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/util'
+Making install in prep
+make[1]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/prep'
+make[2]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/prep'
+make[2]: Nothing to be done for `install-exec-am'.
+make[2]: Nothing to be done for `install-data-am'.
+make[2]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/prep'
+make[1]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom/prep'
+make[1]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom'
+make[2]: Entering directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom'
+make[2]: Nothing to be done for `install-exec-am'.
+make[2]: Nothing to be done for `install-data-am'.
+make[2]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom'
+make[1]: Leaving directory `/home/vishal/GSoC/GEOS/geos-svn/src/geom'

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 59
+*.o
+.deps
+Makefile
+Makefile.in
+RectangleIntersectsPerfTest
+
+END
