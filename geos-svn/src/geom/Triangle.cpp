@@ -52,5 +52,10 @@ void Triangle::circumcentre(Coordinate& result)
 	result = Coordinate(ccx,ccy);
 }
 
+double Triangle::det(double m00 , double m01 , double m10 , double m11)
+{
+	return m00 * m11 - m01 * m10;
+}
+
 } // namespace geos::geom
 } // namespace geos
