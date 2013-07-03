@@ -20,6 +20,7 @@
 
 #include <algorithm>
 #include <math.h>
+#include <vector>
 
 #include <geos/geom/GeometryFactory.h>
 #include <geos/geom/Coordinate.h>
@@ -101,15 +102,44 @@ quadedge::QuadEdgeSubdivision* VoronoiDiagramBuilder::getSubdivision()
    return subdiv;
 }
 
-/*
-geom::GeometryCollection VoronoiDiagramBuilder::clipGeometryCollection(const geom::GeometryCollection& geom, const geom::Envelope& clipEnv)
+std::auto_ptr<geom::GeometryCollection>
+VoronoiDiagramBuilder::getDiagram(const geom::GeometryFactory& geomFact)
 {
-   geom::GeometryFactory* geomfact = geom.getFactory();
-   geom::GeometryCollection* clipPoly = (*geomfact).toGeometry((Envelope*)&clipEnv);
+	create();
+	std::auto_ptr<geom::GeometryCollection> polys = subdiv->getVoronoiDiagram(geomFact);
 
+	geom::GeometryCollection* pol = polys.get();
+	return clipGeometryCollection(*pol,*diagramEnv);
 }
-*/
 
+std::auto_ptr<geom::GeometryCollection> 
+VoronoiDiagramBuilder::clipGeometryCollection(const geom::GeometryCollection& geom, const geom::Envelope& clipEnv)
+{
+   geom::Geometry* clipPoly = geom.getFactory()->toGeometry((Envelope*)&clipEnv);
+   std::vector<Geometry*> clipped;
+   for(std::size_t i=0 ; i < geom.getNumGeometries() ; i++)
+   {
+	   const Geometry* ge = geom.getGeometryN(i);
+	   Geometry* g = ge->clone();
+	   Geometry* result=NULL;
+
+	   if(clipEnv.contains(g->getEnvelopeInternal()))
+		   result = g;
+	   else if(clipEnv.intersects(g->getEnvelopeInternal()))
+	   {
+		   result = clipPoly->intersection(ge);
+		   result->setUserData(g->getUserData());
+	   }
+
+	   if(result!=NULL && !result->isEmpty() )
+	   {
+		   clipped.push_back(result);
+	   }
+	   delete g;
+   }
+   GeometryCollection* ret = geom.getFactory()->createGeometryCollection(clipped);
+   return std::auto_ptr<GeometryCollection>(ret);
+}
 
 } //namespace geos.triangulate
 } //namespace goes

@@ -21,6 +21,7 @@
 
 #include <geos/triangulate/VoronoiDiagramBuilder.h>
 
+#include <memory>
 
 namespace geos {
   namespace geom{
@@ -70,14 +71,15 @@ private:
 private:
    void create();
 
-   static geom::GeometryCollection clipGeometryCollection(const geom::GeometryCollection& geom, const geom::Envelope& clipEnv);
+   static std::auto_ptr<geom::GeometryCollection> clipGeometryCollection(const geom::GeometryCollection& geom, const geom::Envelope& clipEnv);
 
 public:
    quadedge::QuadEdgeSubdivision* getSubdivision();
+
+   std::auto_ptr<geom::GeometryCollection> getDiagram(const geom::GeometryFactory& geomFact);
 };
 
 } //namespace geos.triangulate
 } //namespace goes
 
 #endif //GEOS_TRIANGULATE_VORONOIDIAGRAMBUILDER_H
-
