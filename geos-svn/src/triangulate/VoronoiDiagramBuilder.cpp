@@ -1,29 +1,43 @@
-#include<geos/triangulate/VoronoiDiagramBuilder.h>
+/**********************************************************************
+ *
+ * GEOS - Geometry Engine Open Source
+ * http://geos.osgeo.org
+ *
+ * Copyright (C) 2012 Excensus LLC.
+ *
+ * This is free software; you can redistribute and/or modify it under
+ * the terms of the GNU Lesser General Licence as published
+ * by the Free Software Foundation. 
+ * See the COPYING file for more information.
+ *
+ **********************************************************************
+ *
+ * Last port: triangulate/DelaunayTriangulationBuilder.java rev. r524
+ *
+ **********************************************************************/
 
-#include<vector>
+#include <geos/triangulate/VoronoiDiagramBuilder.h>
+
+#include <algorithm>
+#include <math.h>
 
 #include <geos/geom/GeometryFactory.h>
 #include <geos/geom/Coordinate.h>
+#include <geos/geom/Envelope.h>
 #include <geos/geom/CoordinateSequence.h>
 #include <geos/triangulate/IncrementalDelaunayTriangulator.h>
+#include <geos/triangulate/DelaunayTriangulationBuilder.h>
 #include <geos/triangulate/quadedge/QuadEdgeSubdivision.h>
-#include <geos/triangulate/quadedge/Vertex.h>
+
+namespace geos {
+namespace triangulate { //geos.triangulate
+
+using namespace geos::geom;
 
 
-namespace geos{
-namespace triangulate{
-
-namespace quadedge{
-	class QuadEdgeSubdivision;
-}
-
-VoronoiDiagramBuilder::VoronoiDiagramBuilder()
+VoronoiDiagramBuilder::VoronoiDiagramBuilder() :
+	siteCoords(NULL), tolerance(0.0), subdiv(NULL) , clipEnv(NULL), diagramEnv(NULL)
 {
-	siteCoords(NULL);
-	tolerance(0.0);
-	subdiv(NULL);
-	clipEnv(NULL);
-	diagramEnv(NULL);
 }
 
 VoronoiDiagramBuilder::~VoronoiDiagramBuilder()
@@ -33,59 +47,69 @@ VoronoiDiagramBuilder::~VoronoiDiagramBuilder()
 	if(subdiv)
 		delete subdiv;
 	if(clipEnv)
-		delete clipEnv;
+	   	delete clipEnv;
 	if(diagramEnv)
-		delete diagramEnv;
+	   	delete diagramEnv;
 }
-
 
 void VoronoiDiagramBuilder::setSites(const geom::Geometry& geom)
 {
-	siteCoords = DelaunayTriangulationBuilder.extractUniqueCoordinates(geom);
+   siteCoords = DelaunayTriangulationBuilder::extractUniqueCoordinates(geom);
 }
 
-void VoronoiDiagramBuilder::setSites(CoordinateSequence& coords)
+void VoronoiDiagramBuilder::setSites(const geom::CoordinateSequence& coords)
 {
-	siteCoords = coords.clone();
-	DelaunayTriangulationBuilder.unique(siteCoords);
+   CoordinateSequence* coords_cpy = coords.clone();
+   DelaunayTriangulationBuilder::unique(*coords_cpy);
+   *siteCoords = *coords_cpy;
 }
 
-void VoronoiDiagramBuilder::setClipEnvelope(geom::Envelope& clipEnv)
+void VoronoiDiagramBuilder::setClipEnvelope(const geom::Envelope& clpEnv)
 {
-	this.clipEnv = clipEnv;
+   *clipEnv = clpEnv;
 }
 
-void VoronoiDiagramBuilder::setTolerance(double tolerance)
+void VoronoiDiagramBuilder::setTolerance(const double toler)
 {
-	this.tolerance = tolerance;
+   tolerance = toler;
 }
 
-private:
-	void create();
-	
-	/**
-	 * Gets the {@link QuadEdgeSubdivision} which models the computed diagram.
-	 * 
-	 * @return the subdivision containing the triangulation
-	 */
 
-public:
-	quadedge::QuadEdgeSubdivision& getSubdivision();
+void VoronoiDiagramBuilder::create()
+{
+   if(subdiv!=NULL)
+      return;
+   geom::Envelope siteEnv = DelaunayTriangulationBuilder::envelope(*siteCoords);
+   *diagramEnv = siteEnv;
+   //adding buffer around the final envelope
+   double expandBy = fmax(diagramEnv->getWidth() , diagramEnv->getHeight());
+   diagramEnv->expandBy(expandBy);
+   if(clipEnv!=NULL)
+      diagramEnv->expandToInclude(clipEnv);
 
-	/**
-	 * Gets the faces of the computed diagram as a {@link GeometryCollection} 
-	 * of {@link Polygon}s, clipped as specified.
-	 * 
-	 * @param geomFact the geometry factory to use to create the output
-	 * @return the faces of the diagram
-	 */
+   IncrementalDelaunayTriangulator::VertexList* vertices = DelaunayTriangulationBuilder::toVertices(*siteCoords);
 
-	geom::Geometry& getDiagram(geom::GeometryFactory *geomFact);
-
-private:
-	static geom::Geometry& clipGeometryCollection(geom::Geometry *g, geom::Envelope clipEnv);
+   quadedge::QuadEdgeSubdivision qes(siteEnv,tolerance);
+   *subdiv = qes;
+   IncrementalDelaunayTriangulator triangulator(subdiv);
+   triangulator.insertSites(*vertices);
 }
 
+quadedge::QuadEdgeSubdivision* VoronoiDiagramBuilder::getSubdivision()
+{
+   create();
+   return subdiv;
 }
+
+/*
+geom::GeometryCollection VoronoiDiagramBuilder::clipGeometryCollection(const geom::GeometryCollection& geom, const geom::Envelope& clipEnv)
+{
+   geom::GeometryFactory* geomfact = geom.getFactory();
+   geom::GeometryCollection* clipPoly = (*geomfact).toGeometry((Envelope*)&clipEnv);
+
 }
-#endif
+*/
+
+
+} //namespace geos.triangulate
+} //namespace goes
